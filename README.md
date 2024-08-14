@@ -17,6 +17,8 @@ The objective is to build and launch a secure, scalable cross-chain messaging pr
 - **Block header oracle**: Provides secure and timely block headers.
 - **Block header storage contract**: Stores and provides trusted block headers for validation.
 
+![Architecture Diagram](architecture.svg)
+
 ## Feedback
 
 azommerfelds@gmail.com
